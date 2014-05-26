@@ -2,6 +2,7 @@
 - [共同性說明](#AsusCloud-01)
 - [語法基本結構](#AsusCloud-02)
 - [建立操作授權](#AsusCloud-03)
+- [詳細語法說明](#AsusCloud-04)
   
   
 -------
@@ -114,3 +115,49 @@ JSON 資料格式中出現的特殊符號說明如下：
 
 	最後，可以此函式回傳的布林值判斷AsusCloud.js是否成功建立授權：  
 	`AsusCloud.isBuild()`
+<br/>
+<br/>
+<a name="AsusCloud-04"></a>
+##詳細與法說明##
+- [getInfo](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/getInfo.md)
+- [getEntryInfo](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/etEntryInfo.md)
+- [propFind](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/propFind.md)
+- [isChildrenExist](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/isChildrenExis.md)
+- [getMySyncFolder](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/getMySyncFolder.md)
+- [browseFolder](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/browseFolder.md)
+- [createFolde](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/createFolde.md)
+- [renameFolder](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/renameFolder.md)
+- [removeFolder](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/removeFolder.md)
+- [moveFolder](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/moveFolder.md)
+- [renameFile](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/renameFile.md)
+- [removeFile](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/1111.md)
+- [moveFile](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/moveFile.md)
+- [copyFile](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/copyFile.md)
+- [setAdvancedSharecode](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/setAdvancedSharecode.md)
+- [getAdvancedSharecode](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/getAdvancedSharecode.md)
+- [getInfoByShareCode](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/getInfoByShareCode.md)
+- [deleteShareCode](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/deleteShareCod.md)
+- [getSharedEntries](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/getSharedEntries.md)
+- [checkPassword](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/checkPassword.md)
+- [comparePassword](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/comparePassword.md)
+- [toCompactForm](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/toCompactForm.md)
+- [toNormalForm](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/toNormalForm.md)
+- [findServiceGateway](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/findServiceGateway.md)
+- [directDownload](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/directDownload.md)
+- [directUpload](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/directUpload.md)
+- [binaryUpload](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/binaryUpload.md)
+- [getResizedPhoto](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/getResizedPhoto.md)
+- [getFullTextCompanion](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/getFullTextCompanion.md)
+- [getVideoSnapshot](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/getVideoSnapshot.md)
+- [sqlQuery](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/sqlQuery.md)
+- [propFindRecursive](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/propFindRecursive.md)
+- [createFolderRecursive](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/createFolderRecursive.md)
+- [moveFolderRecursive](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/moveFolderRecursive.md)
+- [removeFolderRecursive](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/removeFolderRecursive.md)
+- [renameFolderRecursive](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/renameFolderRecursive.md)
+- [removeFileRecursive](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/removeFileRecursive.md)
+- [renameFileRecursive](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/renameFileRecursive.md)
+- [moveFileRecursive](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/moveFileRecursive.md)
+- [copyFileRecursive](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/copyFileRecursive.md)
+- [readFileToString](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/readFileToString.md)
+- [writeStringToFile](https://github.com/ezoapp/AsusCloud-API-Reference/blob/master/docs/writeStringToFile.md)
